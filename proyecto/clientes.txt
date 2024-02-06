@@ -1,0 +1,36 @@
+ID: 1
+Nombre: Santiago 
+Edad: 20
+Dirección: cbba cercado
+Teléfono: 4235367
+Correo Electrónico: santiago.lopez@gmail.com
+Puntos: 0
+Transacciones:
+
+ID: 2
+Nombre: Isabella 
+Edad: 19
+Dirección: cbba blanco galindo
+Teléfono: 4203985
+Correo Electrónico: isabella.garcia@gmail.com
+Puntos: 0
+Transacciones:
+
+ID: 3
+Nombre: Gabriel 
+Edad: 25
+Dirección: quillacollo
+Teléfono: 4324357
+Correo Electrónico: gabriel.martinez@gmail.com
+Puntos: 0
+Transacciones:
+
+ID: 4
+Nombre: Valentina 
+Edad: 35
+Dirección: cercado cuidad
+Teléfono: 4376235
+Correo Electrónico: valentina.rodriguez@gmail.com
+Puntos: 0
+Transacciones:
+

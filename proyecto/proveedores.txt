@@ -1,0 +1,30 @@
+id: 1
+nombre: Proveedor de articulos
+direccion: Quillacollo
+telefono: 4512454
+IdProductos
+1
+2
+3
+4
+
+id: 2
+nombre: Proveedor de Alimento
+direccion: Cercado
+telefono: 4538454
+IdProductos
+5
+6
+7
+8
+
+id: 3
+nombre: Proveedor de Cuidado Personal
+direccion: Colcapirhua
+telefono: 4576654
+IdProductos
+9
+10
+11
+12
+

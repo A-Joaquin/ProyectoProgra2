@@ -1,0 +1,148 @@
+ID: 1
+Nombre: Lámpara de mesa
+Detalle: Lámpara de mesa con pantalla de tela
+cantidad: 5
+cantidadVendida: 0
+precio: 29.99
+precioDeCompra: 27
+idProv: 1Tipo: Artículo del Hogar
+Marca: MarcaA
+Tipo de artículo: Iluminación
+Material de fabricación: Metal
+
+ID: 2
+Nombre: Silla de comedor
+Detalle: Silla de madera para comedor
+cantidad: 10
+cantidadVendida: 0
+precio: 49.99
+precioDeCompra: 47
+idProv: 1Tipo: Artículo del Hogar
+Marca: MarcaB
+Tipo de artículo: Muebles
+Material de fabricación: Madera
+
+ID: 3
+Nombre: Cortinas
+Detalle: Cortinas opacas para bloquear la luz
+cantidad: 3
+cantidadVendida: 0
+precio: 39.99
+precioDeCompra: 37
+idProv: 1Tipo: Artículo del Hogar
+Marca: MarcaC
+Tipo de artículo: Decoración
+Material de fabricación: Tela
+
+ID: 4
+Nombre: Tabla de planchar
+Detalle: Tabla de planchar plegable con soporte para plancha
+cantidad: 2
+cantidadVendida: 0
+precio: 19.99
+precioDeCompra: 17
+idProv: 1Tipo: Artículo del Hogar
+Marca: MarcaD
+Tipo de artículo: Hogar
+Material de fabricación: Metal
+
+ID: 5
+Nombre: Manzana
+Detalle: Manzana fresca y jugosa
+cantidad: 10
+cantidadVendida: 0
+precio: 1.99
+precioDeCompra: 1
+idProv: 2Tipo: Alimento
+Fecha de caducidad: 3 enero
+Marca: MarcaA
+Tipo de alimento: Frutas
+
+ID: 6
+Nombre: Leche
+Detalle: Leche entera en envase de cartón
+cantidad: 5
+cantidadVendida: 0
+precio: 2.49
+precioDeCompra: 3
+idProv: 2Tipo: Alimento
+Fecha de caducidad: 3 enero
+Marca: MarcaB
+Tipo de alimento: Lácteos
+
+ID: 7
+Nombre: Arroz
+Detalle: Arroz blanco de grano largo
+cantidad: 8
+cantidadVendida: 0
+precio: 1.79
+precioDeCompra: 1
+idProv: 2Tipo: Alimento
+Fecha de caducidad: 3 enero
+Marca: MarcaC
+Tipo de alimento: Granos
+
+ID: 8
+Nombre: Yogur
+Detalle: Yogur natural sin azúcar
+cantidad: 12
+cantidadVendida: 0
+precio: 1.79
+precioDeCompra: 1
+idProv: 2Tipo: Alimento
+Fecha de caducidad: 3 enero
+Marca: MarcaD
+Tipo de alimento: Lácteos
+
+ID: 9
+Nombre: Champú
+Detalle: Champú revitalizante para todo tipo de cabello
+cantidad: 10
+cantidadVendida: 0
+precio: 5.99
+precioDeCompra: 5
+idProv: 3Tipo: Cuidado Personal
+Fecha de caducidad: 5 enero
+Marca: MarcaA
+Tipo de producto: Cabello
+Ingredientes: Recomendaciones de uso: Aplicar sobre el cabello húmedo y masajear suavemente. Enjuagar bien.
+
+ID: 10
+Nombre: Jabón líquido
+Detalle: Jabón líquido antibacterial para manos
+cantidad: 8
+cantidadVendida: 0
+precio: 3.49
+precioDeCompra: 3
+idProv: 3Tipo: Cuidado Personal
+Fecha de caducidad: 5 enero
+Marca: MarcaB
+Tipo de producto: Manos
+Ingredientes: Recomendaciones de uso: Aplicar una pequeña cantidad sobre las manos, frotar hasta crear espuma y enjuagar con agua.
+
+ID: 11
+Nombre: Crema facial
+Detalle: Crema hidratante para el rostro
+cantidad: 15
+cantidadVendida: 0
+precio: 12.99
+precioDeCompra: 13
+idProv: 3Tipo: Cuidado Personal
+Fecha de caducidad: 5 enero
+Marca: MarcaC
+Tipo de producto: Rostro
+Ingredientes: Recomendaciones de uso: Aplicar una pequeña cantidad en el rostro y cuello, masajear suavemente hasta su completa absorción.
+
+ID: 12
+Nombre: Desodorante
+Detalle: Desodorante en barra con fragancia fresca
+cantidad: 6
+cantidadVendida: 0
+precio: 2.79
+precioDeCompra: 2
+idProv: 3Tipo: Cuidado Personal
+Fecha de caducidad: 5 enero
+Marca: MarcaD
+Tipo de producto: Axilas
+Ingredientes: Recomendaciones de uso: Aplicar sobre las axilas limpias y secas después del baño o según sea necesario.
+

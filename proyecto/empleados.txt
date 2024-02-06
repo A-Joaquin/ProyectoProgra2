@@ -1,0 +1,44 @@
+ID: 1
+Nombre: Mateo
+Edad: 12
+Dirección: cbba
+Teléfono: 8765432
+Correo Electrónico: mateo.perez@gmail.com
+Cargo: Atencion
+Salario: 2000
+Horario: 
+Estado: activo
+
+ID: 2
+Nombre: Sofía
+Edad: 12
+Dirección: cbba
+Teléfono: 9123456
+Correo Electrónico: sofia.torres@gmail.com
+Cargo: Atencion
+Salario: 1500
+Horario: 
+Estado: activo
+
+ID: 3
+Nombre: Lucas
+Edad: 12
+Dirección: cbba
+Teléfono: 7654321
+Correo Electrónico: lucas.ramirez@gmail.com
+Cargo: Atencion
+Salario: 1700
+Horario: 
+Estado: activo
+
+ID: 4
+Nombre: Camila
+Edad: 12
+Dirección: cbba
+Teléfono: 6543219
+Correo Electrónico: camila.herrera@gmail.com
+Cargo: Atencion
+Salario: 1200
+Horario: 
+Estado: activo
+
